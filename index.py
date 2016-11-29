@@ -56,6 +56,5 @@ while True:
             else:
                 print('Wrong Choice. Please Try Again.')
 
-
     except:
         print('Invalid Choice.')
